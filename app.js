@@ -31,6 +31,11 @@ const assigmt_arry =[{
       date:"10-jul-2024",
       code:"https://arhamjawed66.github.io/firebase-stattechange/"
     },
+    {
+      name:"Todo with React",
+      date:"03-sep-2024",
+      code:"https://reaxt-todo-fanicae.vercel.app/"
+    },
 ];
 
 assigmt_arry.forEach((data,index)=>{
