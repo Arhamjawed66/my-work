@@ -36,6 +36,11 @@ const assigmt_arry =[{
       date:"03-sep-2024",
       code:"https://reaxt-todo-fanicae.vercel.app/"
     },
+    {
+      name:"My_Protfolio",
+      date:"20-sep-2024",
+      code:"protfolio-work-sf5o.vercel.app"
+    },
 ];
 
 assigmt_arry.forEach((data,index)=>{
