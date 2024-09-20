@@ -39,7 +39,7 @@ const assigmt_arry =[{
     {
       name:"My_Protfolio",
       date:"20-sep-2024",
-      code:"protfolio-work-sf5o.vercel.app"
+      code:"https://protfolio-work-sf5o.vercel.app/"
     },
 ];
 
